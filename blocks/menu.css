@@ -35,6 +35,5 @@
   display: flex;
   gap: 100px;
   justify-content: center;
-  align-items: space-between;
   flex-wrap: wrap;
 }
