@@ -20,6 +20,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Screenshots of project features
 
-![custom form](https://drive.google.com/file/d/15fxHq0sdzt6tGt0TmaNUMXV-pUDQb1I4/view?usp=sharing)
-![iframe usage](https://drive.google.com/file/d/1ZhMHGplYCRCwUtl28m3IOs3RA6JjL85n/view?usp=sharing)
-![keyframes CSS animation](https://drive.google.com/file/d/1YX2MMthEUMkXOwJr5IVoRrCh5GDJAEYq/view?usp=sharing)
+![custom_form](https://github.com/marzahlde09/se_project_coffeeshop/assets/100625084/a8e5ddd5-259f-4baf-97c2-9006c897336d)
+![iframe_usage](https://github.com/marzahlde09/se_project_coffeeshop/assets/100625084/b0185762-ce24-4fe2-ada2-e461da407462)
+![pulsating_circle_keyframes](https://github.com/marzahlde09/se_project_coffeeshop/assets/100625084/ddda11b7-c76e-4232-8610-d206a7fded9c)
