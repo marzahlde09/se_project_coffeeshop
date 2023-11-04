@@ -30,12 +30,11 @@
 }
 
 .recipes__videos {
-  margin-top: 80px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 80px auto 0 auto;
   width: 1000px;
   display: flex;
   column-gap: 40px;
+  padding: 0;
 }
 
 .recipes__video {
